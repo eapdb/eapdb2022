@@ -1,14 +1,14 @@
 # eapdb2022
 EAP小能手 power by 新心資安科技股份有限公司
 
-安裝說明
+Install 
 
-下載安裝 Windows 適用的 Java
+Download and Install Java for Windows 
 
 https://www.java.com/zh-TW/download/ie_manual.jsp?locale=zh_TW
 
-下載安裝libreoffice（含base）
+Download and Install libreoffice（include base）
 
 https://zh-tw.libreoffice.org/
 
-開始dapeb20211221R4.odb
+click to open eapeb20211221R4.odb
